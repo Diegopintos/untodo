@@ -1,7 +1,7 @@
 <template>
     <v-toolbar app color="blue" dark clipped-left>
         <v-toolbar-side-icon @click="notificarDrawer"/>
-        <v-toolbar-title>Kodemia-Tareas</v-toolbar-title>        
+        <v-toolbar-title>Mitodo</v-toolbar-title>        
     </v-toolbar>
 </template>
 
