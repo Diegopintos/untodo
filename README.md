@@ -1,4 +1,4 @@
-# proyecto_final_vue_firebase
+# proyecto_soy_una_mesa
 
 ## Project setup
 ```
