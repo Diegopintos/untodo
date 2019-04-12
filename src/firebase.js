@@ -4,12 +4,12 @@ import 'firebase/firestore'
 import 'firebase/storage'
 
 var config = {
-    apiKey: "AIzaSyBQ4jBY52XMCjMbgTFHI3aPkomA8fUlbp4",
-    authDomain: "mi-lista-54f0a.firebaseapp.com",
-    databaseURL: "https://mi-lista-54f0a.firebaseio.com",
-    projectId: "mi-lista-54f0a",
-    storageBucket: "mi-lista-54f0a.appspot.com",
-    messagingSenderId: "893774281368"
+    apiKey: "CUCUSOY UNA API",
+    authDomain: "CUCU SOY UN DOMINIO",
+    databaseURL: "CUCU SOY UNA DATAURL",
+    projectId: "CUCU SOY UNA ID",
+    storageBucket: "CUCU",
+    messagingSenderId: "CUCU"
   };
   firebase.initializeApp(config);
   
