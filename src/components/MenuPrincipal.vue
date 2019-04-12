@@ -7,7 +7,7 @@
                         <v-icon>wb_sunny</v-icon>
                     </v-list-tile-action>
                     <v-list-tile-title class="title font-weight-light">
-                        O tempo
+                       Podcast
                     </v-list-tile-title>
             </v-list-tile>
             
