@@ -1,5 +1,7 @@
 # proyecto_soy_una_mesa
 
+En estos momentos tan solo funciona el weather y el todolist
+
 ## Project setup
 ```
 npm install
